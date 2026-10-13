@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Фон сплэш-экрана (тёмно-синий, совпадает с windowSplashScreenBackground в values-v31) -->
+    <color name="splashBg">#0A162C</color>
+</resources>

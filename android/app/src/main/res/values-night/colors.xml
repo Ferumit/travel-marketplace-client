@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Тот же цвет для тёмной темы -->
+    <color name="splashBg">#0A162C</color>
+</resources>
